@@ -1,0 +1,27 @@
+#batman {
+    height: 125px;
+    width: 90px;
+    top: 100px;
+    left: 300px;
+    position: absolute;
+}
+
+#joker {
+    height: 100px;
+    width: 75px;
+    top: 500px;
+    left: 100px;
+    position: absolute;
+}
+
+body {
+    background-image: url("gotham-wallpaper.jpg")
+}
+
+.height {
+    color: white;
+}
+
+p {
+    font-size: 20px;
+}
